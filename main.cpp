@@ -26,7 +26,7 @@ else if (letter < 'A' || letter > 'z')
   
   
   //no matter what they enter...
-  cout<<"The ASCII value is: " cout<< (int) letter << endl;
+  cout<<"The ASCII value is: ";
 
   return 0;                    
 }
