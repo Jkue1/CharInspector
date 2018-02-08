@@ -25,7 +25,7 @@ else
  {cout<< letter << "?! Pssh. What are you talking about?\n";}
   
   //no matter what they enter...
- cout<<"The ASCII value is:";
+ cout<<"The ASCII value is: ";
  cout<<(int) letter<<endl;
 
   return 0;                    
